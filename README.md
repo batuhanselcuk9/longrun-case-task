@@ -6,7 +6,7 @@ A fully functional product inventory dashboard built with **ReactJS**, **TypeScr
 
 ## 🚀 Live Demo
 
-[Insert your Vercel/Netlify link here if deployed]
+(https://productinventorycase.netlify.app/)
 
 ---
 
