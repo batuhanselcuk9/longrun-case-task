@@ -41,7 +41,7 @@ A fully functional product inventory dashboard built with **ReactJS**, **TypeScr
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/batuhanselcuk9/longrun-inventory.git
+git clone https://github.com/batuhanselcuk9/longrun-case-task.git
 cd longrun-inventory
 ```
 
